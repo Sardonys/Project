@@ -14,7 +14,7 @@ class Navigation extends Component{
           </Nav> 
           <Dropdown className="mr-2">
   <Dropdown.Toggle variant="success" id="dropdown-basic">
-    Register
+  Register
   </Dropdown.Toggle>
 
   <Dropdown.Menu>

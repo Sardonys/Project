@@ -6,7 +6,7 @@ class Searchbox extends Component{
         return(
           <div className="box">
           <div className="search">
-            <div className="ml-4"><h5>Find an Intern You Love</h5></div>
+            <div className="ml-4"><h5>this is change</h5></div>
           <Form inline className="d-flex justify-content-center">
           <FormControl type="text" placeholder="Search" className="mr-sm-2" />
           <Button variant="outline-success">Search</Button>
